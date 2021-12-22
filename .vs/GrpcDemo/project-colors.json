@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "842feb22-82c3-4c55-a118-a301ad904646": {
+      "ProjectGuid": "842feb22-82c3-4c55-a118-a301ad904646",
+      "DisplayName": "grpcServer",
+      "ColorIndex": 0
+    },
+    "e51570de-1d98-47c4-955b-51fad8554120": {
+      "ProjectGuid": "e51570de-1d98-47c4-955b-51fad8554120",
+      "DisplayName": "grpcClient",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "be2a7382-340a-48a6-b837-102bbf7ea988": {
+      "ProjectGuid": "be2a7382-340a-48a6-b837-102bbf7ea988",
+      "DisplayName": "WebAPI1",
+      "ColorIndex": 2
+    },
+    "9ce8a6b3-b43e-4ce5-83cc-8d8a9105946c": {
+      "ProjectGuid": "9ce8a6b3-b43e-4ce5-83cc-8d8a9105946c",
+      "DisplayName": "MVCTest1",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
